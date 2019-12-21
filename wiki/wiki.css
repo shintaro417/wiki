@@ -15,10 +15,10 @@ body {
 	font-family:verdana,"ヒラギノ角5 Pro W3","Hiragino Kaku Gothic Pro",Osaka,Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
 	color:#333;
 	line-height:1.5;
-	/* background-image:('images/kamon.jpg');
-/*    background-image: url(images/byoudouin.jpg);*/
-/*    background-image: url(images/seigaiga001i.jpg);*/
-/*    background-image: url(images/himezi.jpg);*/
+	/* background-image:('images/');
+/*    background-image: url(images/);*/
+/*    background-image: url(images/);*/
+/*    background-image: url(images/);*/
 	background-size: cover;
 	background-repeat: repeat; */
 }
@@ -42,10 +42,10 @@ fieldset {
 }
 
 /* #index{
-    background-image:('images/kamon.jpg');
-/*    background-image: url(images/byoudouin.jpg);*/
-/*    background-image: url(images/seigaiga001i.jpg);*/
-/*    background-image: url(images/himezi.jpg);*/
+    background-image:('images/');
+/*    background-image: url(images/);*/
+/*    background-image: url(images/);*/
+/*    background-image: url(images/);*/
     background-size: cover;
     background-repeat: repeat;
 
@@ -58,9 +58,6 @@ fieldset {
 
 }
 
-/*和風テイスト　#fbca4d:黄色　#3f312b:赤墨　#ba2636:朱色
-緑系テイスト　#328131:緑　#CE9B0E:黄土色　#000B00:濡羽色
-青系 #105779:藍色 #FFFFFC:白　#71A4D9:露草色 #DAEAD0:白緑*/
 /*-----------------------------------------------
  __header
 -----------------------------------------------*/
@@ -72,10 +69,8 @@ fieldset {
 	min-width:500px;
 /*	background:#EFEFEF;*/
 
-/*通常版*/
     background-color: rgba(192,192,192,0.5);
 
-/*    姫路城用*/
 /*     background: rgba(255,255,255,0.1);*/
 }
 
@@ -150,10 +145,8 @@ fieldset {
 	padding:10px 15px 5px;
 /*	background:#E7FBEE;*/
 
-/*    通常版*/
     background-color: rgba(192,192,192,0.8);
 
-/*    姫路城用*/
 /*    background: rgba(255,255,255,0.6);*/
 }
 
@@ -175,10 +168,8 @@ fieldset {
 	padding:15px 0 0 0;
 /*	background:#FBF9E7;*/
 
-/*    通常版*/
     background-color: rgba(192,192,192,0.7);
 
-/*    姫路城用*/
 /*     background: rgba(255,255,255,0.7);*/
 }
 
