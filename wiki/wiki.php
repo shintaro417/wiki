@@ -9,13 +9,12 @@
  <div class="bkRGBA">
  <div id="header">
    <h1>wiki</h1>
-<!--<p id="siteDescription">ネガティブマージン。メニュー左</p>-->
-<!-- / #header --></div>
+</div>
 
 <div id="main">
 <div class="inner">
 
-<h2>エントリータイトル</h2>
+<h2>タイトル</h2>
 
 <!-- / .inner --></div>
 <!-- / #main --></div>
@@ -30,12 +29,6 @@
 
 <h3>Categories</h3>
 <ul>
-  <!-- <li><a href="wiki_list.php">記事一覧</a></li> -->
-<!-- <li><a href="#">原始・古代</a></li>
-<li><a href="#">中世</a></li>
-<li><a href="#">近世</a></li>
-<li><a href="#">近代</a></li>
-<li><a href="#">現代</a></li> -->
 </ul>
 
 <!--<h3>Archives</h3>-->
@@ -54,7 +47,6 @@
 <div id="footer">
 <ul>
 <li class="utilityHome"><a href="wiki.php">HOME</a></li>
-<!--<li><a href="#">こんにちは</a><li>-->
 </ul>
 <!-- / #footer --></div>
 </div>
